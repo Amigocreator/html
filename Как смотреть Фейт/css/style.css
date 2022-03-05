@@ -1,0 +1,89 @@
+body {
+    background-color: rgb(136, 136, 136);
+}
+
+.Main {
+    display: flex;
+    flex-direction: row-reverse;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.Main-conteiner {
+    background-color: #fff;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 40px;
+}
+
+.Sidebar {
+    background-color: rgb(2, 2, 39);
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    color: #fff;
+}
+
+/*Cont*/
+.Main-cont {
+    margin-top: 40px;
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: 200;
+}
+
+.Welcome {
+    margin-left: 50px;
+}
+
+.Fate-sries-first{
+    margin-top: 40px;
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: 200;
+}
+
+.How-to-watch-1{
+    margin-top: 80px;
+}
+
+.How-to-watch-2{
+    margin-top: 40px;
+    font-size: 16px;
+    font-weight: 200;
+}
+
+.How-to-watch-3{
+    margin-top: 40px;
+    margin-left: 40px;
+    font-size: 16px;
+    font-weight: 200;
+}
+
+.end-1{
+    margin-top: 80px;
+    margin-left: 20px;
+}
+
+.end-2{
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-bottom: 80px;
+}
+
+/*sidebar*/
+.sidebar-1{
+    margin-left: 10px;
+}
+
+.li-1{
+    color: #fff;
+}
+
+.sifebar-2{
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+.li-2{
+    color: rgb(226, 158, 11);
+}
